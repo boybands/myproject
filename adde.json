@@ -1,0 +1,6 @@
+{
+  "name": "adde/myproject",
+  "description": "Proyek latihan PHP dengan Composer",
+  "type": "project",
+  "require": {}
+}
